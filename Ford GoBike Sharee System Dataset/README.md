@@ -17,9 +17,16 @@ The Ford GoBike Trip dataset includes information about individual rides made in
 
 ## Summary of Findings
 
-In the exploration of the dataset I found that most people tend to spend around 4 - 5  and around 10 minutes on bike trips and that most bike trips are taking 8 AM and 5 PM which is when most people go to work and leave from work respectively, this kind of shows that most user of the dataset set are actually working people who use this bike share program as a means to commute to work. Futher validation of this was shown when I ploted this distribution in a heatmap in a bivariate case of both time_of_day and day_of_week, the peak of activity around 8 AM and 5 PM vanished on weekends. I also observed that unsubscribed customers tend to spend more time on bike trips than subscribed customers and that most customers tend to use the bike share service to get some exercise and they spend more time per trip on weekends than on weekdays.
+In the exploration of the dataset I found the following insights;
+* Most people tend to spend around 4 - 5 and around 10 minutes on bike trips and that most bike trips are taking around 8 AM and 5 PM which is when most people go to work and leave from work respectively, this kind of shows that most user of the dataset set are actually working people who use this bike share program as a means to commute to work. Futher validation of this was shown when I ploted this distribution in a heatmap in a bivariate case of both time_of_day and day_of_week, the peak of activity around 8 AM and 5 PM vanished on weekends. 
 
-Assides the main findings, I also observed how far spread the Ford gobike stations are covering some really large area, some more than 60km but then I observed that most people, though, tend to return bikes to stations in close proximity of where they took it some even back to the initial start station. And I also noticed old people use this service as well, even people older than 120 years.
+* I also observed that unsubscribed customers tend to spend more time on bike trips than subscribed customers.
+
+* Also that most customers tend to use the bike share service to get some exercise and they spend more time per trip on weekends than on weekdays.
+
+* Assides the main findings, I also observed how far spread the Ford gobike stations are covering some really large area, some more than 60km but then I observed that most people, though, tend to return bikes to stations in close proximity of where they took it some even back to the initial start station.
+
+* And I also noticed old people use this service as well, even people older than 120 years.
 
 
 ## Key Insights for Presentation
